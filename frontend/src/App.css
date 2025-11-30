@@ -1,0 +1,14 @@
+.layout {
+  min-height: 100vh;
+}
+
+.logo {
+  float: left;
+  margin-right: 20px;
+}
+
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
