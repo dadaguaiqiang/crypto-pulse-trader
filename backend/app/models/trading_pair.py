@@ -1,5 +1,5 @@
 from sqlalchemy import Column, String, Boolean
-from app.models.base import  aseModel
+from app.models.base import  BaseModel
 
 
 class TradingPair(BaseModel):
