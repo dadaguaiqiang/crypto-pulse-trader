@@ -1,15 +1,19 @@
 # 前端依赖
 frontend/node_modules/
+frontend/dist/
 frontend/.env
 
 # 后端Python缓存和虚拟环境
+backend/__pycache__/
 backend/venv/
 backend/.env
 backend/*.log
+backend/.pytest_cache/
 
 # 通用系统文件
 .DS_Store
 Thumbs.db
 
 # IDE配置
-.venv/
+.vscode/
+.idea/
